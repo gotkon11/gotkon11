@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gotkon11
 - 👀 I’m interested in Star Wars
 - 🌱 I’m currently learning Cloud-Native Platforms, Data Fabric,  Cybersecurity Mesh, Composable Applications, Hyperautomation..
-- 💞️ I’m looking to collaborate on my gotkon11 team.
+- 💞️ I’m looking to collaborate with my gotkon11 team.
 - 📫 How to reach me gotkon11@outlook.com
 
 <!---
