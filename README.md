@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gotkon11
-- 👀 I’m interested in Star Wars
+- 👀 I’m interested in Star Wars, Coding, Windows, Linux
 - 🌱 I’m currently learning Cloud-Native Platforms, Data Fabric,  Cybersecurity Mesh, Composable Applications, Hyperautomation..
 - 💞️ I’m looking to collaborate with my gotkon11 team.
-- 📫 How to reach me gotkon11@outlook.com
+- 📫 How to reach me gotkon11 atsign outlook.com
 
 <!---
 gotkon11/gotkon11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
